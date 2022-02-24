@@ -2,6 +2,8 @@
 
 ## do some fix (maybe do more change)
 
+> you should build pinot-jdbc yourself
+
 pinot-clients/pinot-jdbc-client/src/main/java/org/apache/pinot/client/base/AbstractBaseConnection.java
 ```java
 
